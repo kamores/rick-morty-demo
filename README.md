@@ -6,6 +6,9 @@ Proyecto en el que se hacen peticiones a una API externa para recuperar datos y 
 Clic [aquí](https://rick-morty-react-github-kamores.netlify.app/) para ver el proyecto funcionando.
 https://rick-morty-react-github-kamores.netlify.app/
 
+[go]([http://stackoverflow.com](https://rick-morty-react-github-kamores.netlify.app/)){:target="_blank" rel="noopener"}
+
+
 # Lo que aprendi
 
 * Conocimientos básicos de React
