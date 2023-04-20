@@ -2,6 +2,9 @@
 
 Proyecto en el que se hacen peticiones a una API externa para recuperar datos y mostrarlos en la aplicación. Con este proyecto se aplican los conocimientos aprendidos sobre REACT según un curso de UDEMY.
 
+# Link del proyecto 
+Clic [aquí](https://rick-morty-react-github-kamores.netlify.app/) para ver el proyecto funcionando.
+https://rick-morty-react-github-kamores.netlify.app/
 
 # Lo que aprendi
 
