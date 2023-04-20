@@ -1,6 +1,6 @@
 # Rick-Morty-Demo
 
-Proyecto en el que se hacen peticiones a una API externa para recuperar datos y mostrarlos en la aplicación. Con este proyecto se aplican los conocimientos aprendidos sobre REACT un curso de UDEMY.
+Proyecto en el que se hacen peticiones a una API externa para recuperar datos y mostrarlos en la aplicación. Con este proyecto se aplican los conocimientos aprendidos sobre REACT según un curso de UDEMY.
 
 
 # Lo que aprendi
